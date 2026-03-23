@@ -16,3 +16,7 @@ print(str.endswith("er"));
 print(str.capitalize());
 print(str.replace("Prathamesh","Patu"));
 print(str.count("th"))
+
+n=input("Enter first name: ")
+print(n)
+print("The length of",n,"is",len(n))
