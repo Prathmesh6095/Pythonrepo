@@ -4,6 +4,6 @@ y = int(input("Enter first number: "))
 z = int(input("Enter first number: "))
 
 if y and z == 0:
-    print("Invalid values")
+    print("Invalid values ")
 
 print("Remainder is: ",y%z)
