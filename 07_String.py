@@ -15,3 +15,5 @@ print(name1[1:4:2],"\n")
 print(name1.endswith("rry"))
 print(name1.startswith("ha"))
 print(name1.capitalize())
+p = "Prathamesh is a bad boy"
+print(p.replace("bad","good")) 
