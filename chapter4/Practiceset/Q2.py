@@ -16,5 +16,4 @@ m7 = int(input("Enter the marks: "))
 marks.append(m7)
 
 marks.sort()
-
 print(marks)
