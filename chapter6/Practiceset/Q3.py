@@ -10,3 +10,6 @@ message = input("Enter your message: ")
 
 if(c1 in message or c2 in message or c3 in message or c4 in message): # in check that string present in given string
     print("It's a spam.")
+
+else:
+    print("It's not a spam.")
