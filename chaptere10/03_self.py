@@ -6,6 +6,6 @@ class Employee:
         print(f"The lanuage is {self.language}. The salary is {self.salary}")
 
 Patu = Employee()
-Patu.language = "Jawa" # This is an instance attribute
+Patu.language = "Java" # This is an instance attribute
 Patu.getinfo()
 print(Patu.language, Patu.salary)
