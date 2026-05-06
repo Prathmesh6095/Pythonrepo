@@ -7,7 +7,7 @@ except ValueError as v:
     print(v)
 
 except TypeError:
-    print("Type error")
+    print("Type error ")
 
 except Exception as e:
     print(e)
